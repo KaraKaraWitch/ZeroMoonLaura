@@ -118,7 +118,7 @@
     - It will calm your heart and fully restore your stamina!
     - <>
 20:
-    - Claire, the Beginner's Bonfirist
+    - Claire, the Beginner Bonfirist
     - Bonfires are the best, aren't they...
     - \.When I grow up, I'm going to become a skilled 'Bonfire Artisan' myself!
     - <>

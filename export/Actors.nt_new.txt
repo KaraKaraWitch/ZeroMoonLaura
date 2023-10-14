@@ -17,7 +17,7 @@
     nickname:
     profile:
         > ハタヤキ村出身の笑顔満点なちんちくりん。
-        > ルナロアに恋焦がれる多感な純情乙女。
+        > A sensitive and pure maiden who yearns for Lunaroa.
 # ルナ ロア (Lunaroa)
 2:
     name: Lunaroa
@@ -354,7 +354,7 @@
         > 『ハタヤキ村』生き残りの女性。
         > メイド仕込みの『家事』と『夜伽』が非常に得意。
 26:
-    name: メイドキャット
+    name: Cat (Maid)
     note:
         > <stand_picture:cat_menu><特徴1:ワタクシに期待なんてしないでください！><特徴2:特製アイテムにより、パーティの補助が出来る。
         > >
