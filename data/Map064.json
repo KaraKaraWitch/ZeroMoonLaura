@@ -46,6 +46,20 @@
           "meta": "101code"
         },
         {
+          "type": "text_choice",
+          "text": [
+            [
+              "はい",
+              "いいえ"
+            ],
+            1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 2
+        },
+        {
           "type": "text",
           "text": [
             "軽戦士のセーレ",

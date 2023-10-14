@@ -78,6 +78,20 @@
           "meta": "101code"
         },
         {
+          "type": "text_choice",
+          "text": [
+            [
+              "はい",
+              "いいえ"
+            ],
+            1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 3
+        },
+        {
           "type": "text",
           "text": [
             "宿屋のおかみさん",

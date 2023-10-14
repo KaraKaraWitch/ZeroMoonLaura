@@ -22,6 +22,21 @@
           "meta": "101code"
         },
         {
+          "type": "text_choice",
+          "text": [
+            [
+              "『ON』にする",
+              "『OFF』にする",
+              "動作チェック"
+            ],
+            -1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 6
+        },
+        {
           "type": "text",
           "text": [
             "",
@@ -92,6 +107,21 @@
             51
           ],
           "meta": "101code"
+        },
+        {
+          "type": "text_choice",
+          "text": [
+            [
+              "『ON』にする",
+              "『OFF』にする",
+              "動作チェック"
+            ],
+            -1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 52
         },
         {
           "type": "text",
@@ -182,6 +212,20 @@
           "meta": "101code"
         },
         {
+          "type": "text_choice",
+          "text": [
+            [
+              "『見る』",
+              "『見ない』"
+            ],
+            -1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 6
+        },
+        {
           "type": "text",
           "text": [
             "",
@@ -222,6 +266,20 @@
             28
           ],
           "meta": "101code"
+        },
+        {
+          "type": "text_choice",
+          "text": [
+            [
+              "『見る』",
+              "『見ない』"
+            ],
+            -1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 29
         },
         {
           "type": "text",

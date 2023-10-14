@@ -18,6 +18,17 @@
           "meta": "101code"
         },
         {
+          "type": "text_choice",
+          "text": [
+            [
+              "はい",
+              "いいえ"
+            ],
+            2
+          ],
+          "pointer": 3
+        },
+        {
           "type": "text",
           "text": [
             "宿のおかみさん",

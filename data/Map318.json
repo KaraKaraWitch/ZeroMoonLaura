@@ -14,6 +14,17 @@
           "meta": ""
         },
         {
+          "type": "text_choice",
+          "text": [
+            [
+              "はい",
+              "いいえ"
+            ],
+            2
+          ],
+          "pointer": 2
+        },
+        {
           "type": "text",
           "text": [
             "お金が足りません。"

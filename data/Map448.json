@@ -66,6 +66,20 @@
           "meta": "101code"
         },
         {
+          "type": "text_choice",
+          "text": [
+            [
+              "声をかけてみる",
+              "少し散歩してから"
+            ],
+            1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 6
+        },
+        {
           "type": "text",
           "text": [
             "アイシャ",
@@ -572,6 +586,20 @@
             5
           ],
           "meta": "101code"
+        },
+        {
+          "type": "text_choice",
+          "text": [
+            [
+              "はい",
+              "いいえ"
+            ],
+            1,
+            0,
+            2,
+            0
+          ],
+          "pointer": 6
         },
         {
           "type": "text",
