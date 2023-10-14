@@ -3,8 +3,9 @@
     - \SE[17]\{裏技だぞっ！！
     - <>
     - Laura
-    - \SE[33]初めまして！ ラウラです！
-    - にーはおっ…！ ないすとぅみーちゅー……！！
+    # TL Note: Multi-languages is intended.
+    - \SE[33]Nice to meet you! The name is Laura!!
+    - 你好！こにちはー！！
     - <>
     - Lunaroa
     - \SE[12]
@@ -13,7 +14,7 @@
     - \SE[29]\{７月７日０時の、
     - 発売された瞬間に買ってくれぇ…！
     - <>
-    - みんな
+    - Everyone
     - ……！！？？
     - <>
     - Vega
@@ -29,7 +30,7 @@
     - Vita
     - \SE[14]\{プラットフォームは『steam』だぞ…！
     - <>
-    - みんな
+    - Everyone
     - …………。
     - <>
     - Laura
@@ -38,7 +39,7 @@
     - Vita
     - \SE[17]\{裏技だぞっ！！
     - <>
-    - みんな
+    - Everyone
     - ……！！？？
     - <>
 13:

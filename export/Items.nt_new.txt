@@ -42,16 +42,16 @@ Magical Care Ω:
     > 『ケア社』の特注品。ここまでくると、需要もないらしい。
 Yuri Charge α:
     > Restores SP by 25%.
-    > 『ユリシーン』で生産されている。原材料は不明。
+    > 『Yurissean』で生産されている。原材料は不明。
 Yuri Charge β:
     > Restores SP by 50%.
-    > 『ユリシーン』にて生産。需要に対し、供給不足。
+    > 『Yurissean』にて生産。需要に対し、供給不足。
 Yuri Charge γ:
     > Restores SP by 75%.
-    > 『ユリシーン』にて生産。製造方法非公開。
+    > 『Yurissean』にて生産。製造方法非公開。
 Yuri Charge Ω:
     > Restores SP by 100%.
-    > 『ユリシーン』にて生産。製造法を知ってはいけないらしい…。
+    > 『Yurissean』にて生産。製造法を知ってはいけないらしい…。
 Care n Cure α:
     > Restores 50% HP & MP.
     > 『ケア社』『キュア社』のコラボ商品。便利ゆえ、自社商品の売り上げは落ちたとか…。
