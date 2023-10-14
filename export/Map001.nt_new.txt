@@ -1,0 +1,235 @@
+# Notes
+# Map001nt done
+# 4: Done, played through
+4:
+    - Asuran who loves pigs
+    - Come closer to the livestock fence!
+    - \!The pigs will come crawling... \.Isn't it fun?
+    - <>
+# 6: Done, played through
+6:
+    - Lewis the Absentee
+    - That knocking sound... \.Laura?
+    - \!Such a nice sound... More... \.Please, more...
+    - <>
+    - Lewis the Absentee
+    - Ahh...!\.Amazing...!!
+    - \.I feel like I'm about to lose control!
+    - <>
+    - Lewis the Absentee
+    - Ahh... wait...!
+    - \.I can't handle this... \.anymore...!!!
+    - <>
+    - Lewis the Absentee
+    - S-Stop... \.Laura...!!
+    - \.I-I'm really... \.going crazy...♡!!!
+    - <>
+    - Lewis the Absentee
+    - Ahh...♡!!
+    - \.No...♡♡!!!\.Kuuh...♡!!
+    - \.Ahh...♡♡!!\.Ahhahaa...♡♡♡!!!
+    - <>
+    - Laura
+    - \SE[2]They call this phonophilia.
+    - \!\SE[10]This person always ends up like this.
+    - No one has ever seen their face.
+    - <>
+    -
+    - Seems like nobody's home...
+    - <>
+7:
+    -
+    - "Welcome to Hatayaki Village!"... \.Is what it says.
+    - \!But since there are no tourists, no one will read it...
+    - <>
+8:
+    - Sage in Love
+    - Ah... Laura-chan, \.hello...!
+    - \!Um, it's sudden, but do you have a boyfriend or anything, Laura-chan...?
+    - <>
+    - Laura
+    - \SE[1]Boyfriend... \. well, I don't have one in particular.
+    - \!\SE[3]Why are you suddenly asking me that?
+    - <>
+    - Sage in Love
+    - Ah... I see... \.Hrmm...!
+    - \!Well, the thing is, I've been thinking about confessing to someone I like...
+    - <>
+    - Laura
+    - \SE[5]Eh! Is that true!?
+    - \!\SE[21]I'm sure your feelings will reach them! \.\SE[14]I'll be cheering for you too!
+    - <>
+    - Enlightened Sage
+    - Eh... Ah, \.um.
+    - \!Thank you...
+    - <>
+11:
+    -
+    - I hear some noises coming from inside the warehouse...
+    - \.Should I go inside and investigate?\!
+    - <>
+12:
+    -
+    - Here are the "Fun Pigs!"
+    - \.↓ Let's touch the warmth and become happy!
+    - <>
+13:
+    -
+    - I am growing "Prism Herbs" for pig farming.
+    - \!Stealing is a crime.\.You should never do it.
+    - \!Don't you think it's pitiful to see cute pigs go hungry?
+    - <>
+14:
+    -
+    - \i[395]Obtained 1x Prism Herb!\$
+    - <>
+16:
+    - Cat
+    - \SE[1]I am a traveling merchant.
+    - \!\SE[15]I came here with a sense of traveling,\.but it's such a peaceful and nice place.
+    - <>
+    - Cat
+    - \SE[2]Oh my...!\. Do you need something?
+    - \!\SE[16]Even if you're just here to chat, you're welcome!
+    - <>
+    - Cat
+    - \SE[15]Well then, please take care and have a safe journey!
+    - <>
+    - Cat
+    - \SE[32]The delay will be about a week... \.It seems.
+    - \!\SE[38]I wonder how much I can do on my own...
+    - <>
+    - Cat
+    - \SM[double]\SE[1]Oh, welcome back!
+    - It seems like you were able to successfully accomplish your objective!
+    - \!\SE[10]You have such a nice expression on your face!
+    - \!\SM[pop]\SE[15]Well then, it's time for Cat's Shop!
+    - <>
+    - Cat
+    - \SE[15]Well then, please take care.
+    - <>
+    - Cat
+    - \SE[2]Oh my...!\. Do you need something?
+    - \!\SE[16]Even if you're just here to chat, you're welcome!
+    - <>
+    - Cat
+    - \SE[0]Well then, please be careful.
+    - <>
+18:
+    - Proud Bonfirist Ale
+    - Oh, Laura-chan!
+    - \!If you're going outside, why don't you come and sit by the bonfire?
+    - It will calm your heart and fully restore your stamina!
+    - <>
+20:
+    - Claire, the Beginner's Bonfirist
+    - Bonfires are the best, aren't they...
+    - \.When I grow up, I'm going to become a skilled 'Bonfire Artisan' myself!
+    - <>
+21:
+    -
+    - Hatayaki Village...
+    - \!A modest yet lively village located in the outskirts...
+    - <>
+26:
+    - Cat
+    - \SE[2]Oh, are you going out?
+    - \!\SE[15]It's dangerous for a girl to go out alone.
+    - Why not equip yourself with my merchandise?\.(Though its not free!)
+    - <>
+    - Laura
+    - \SE[2]Equipment...?
+    - \.But, I'm just going to the back of the mountain for a bit...
+    - <>
+    - Cat
+    - \SE[14]That's exactly why...\.You see!
+    - Even in the city recently, it has become popular for girls to arm themselves!
+    - \!\SM[double]\SE[25]You are a cute sister and you can also be 'cool' as well!
+    - \!\SM[rock]\SE[36]Even that "special someone" will be head over heels for you...!
+    - <>
+    - Laura
+    - \SE[2]Equipping myself as a girl... For the "special someone"...
+    - \.\SE[19]Becoming cool and...\.\SE[106]Falling in love with them?!
+    - \!\SM[nod]\SE[102]C-\.Could you show me just a bit...!?
+    - <>
+    - Cat
+    - \SM[pop]\SE[15]Welcome!
+    - \.It's time for the Cat Shop!
+    - \!\SM[nod]\SE[14]Even window shopping is welcome!
+    - <>
+    - Laura
+    - \SE[5]Wow!\.There are so many things!!
+    - \!\SM[rock]\SE[28]I'm a little bit overwhelmed by all of it...
+    - <>
+    - Cat
+    - \SE[1]First things first, you should keep your recovery items in check!
+    - After that, maybe a detour into Armors?\.Not that I know much about it.
+    - \!\SM[nod]\SE[15]After all, your life is the most important thing.
+    - <>
+    - Cat
+    - \SE[3]Because I don't know how long this place will remain peaceful...
+    - <>
+    - Laura
+    - \SE[2]Eh?
+    - <>
+    - Cat
+    - \SE[16]Welp, you're hearing no evil from me~
+    - \!\SE[0]Well then, please take care on your way.
+    - If you need anything, feel free to ask~.
+    - \!\SM[nod]\SE[10]Cool, \.Captivating... \. big sister!
+    - <>
+    - Laura
+    - \SE[1]Thank you very much for your kindness.
+    - \.\SE[16]Cool and Captivating... \.\SM[nod]\SE[14]Yes!
+    - <>
+27:
+    - Cat
+    - \SE[2]Oh, are you going out?
+    - \!\SE[15]It's dangerous for a girl to go out alone.
+    - Why not equip yourself with my merchandise?\.(Though its not free!)
+    - <>
+    - Laura
+    - \SE[2]Equipment...?
+    - \.But, I'm just going to the back of the mountain for a bit...
+    - <>
+    - Cat
+    - \SE[14]That's exactly why...\.You see!
+    - Even in the city recently, it has become popular for girls to arm themselves!
+    - \!\SM[double]\SE[25]You are a cute sister and you can also be 'cool' as well!
+    - \!\SM[rock]\SE[36]Even that "special someone" will be head over heels for you...!
+    - <>
+    - Laura
+    - \SE[2]Equipping myself as a girl... For the "special someone"...
+    - \.\SE[19]Becoming cool and...\.\SE[106]Falling in love with them?!
+    - \!\SM[nod]\SE[102]C-\.Could you show me just a bit...!?
+    - <>
+    - Cat
+    - \SM[pop]\SE[15]Welcome!
+    - \.It's time for the Cat Shop!
+    - \!\SM[nod]\SE[14]Even just browsing is welcome!
+    - <>
+    - Laura
+    - \SE[5]Wow! There are so many things!!
+    - \!\SM[rock]\SE[28]I'm a little bit overwhelmed by all of it...
+    - <>
+    - Cat
+    - \SE[1]First things first, keep your recovery items in check!
+    - After that, maybe a detour into Armors?\.
+    - \!\SM[nod]\SE[15]After all, your life is the most important thing.
+    - <>
+    - Cat
+    - \SE[3]Because I don't know how long this place will remain peaceful...
+    - <>
+    - Laura
+    - \SE[2]Eh?
+    - <>
+    - Cat
+    - \SE[16]Welp, you're hearing no evil from me~
+    - \!\SE[0]Well then, please take care on your way.
+    - If you need anything, feel free to ask~.
+    - \!\SM[nod]\SE[10]Cool, \.Captivating... \. big sister!
+    - <>
+    - Laura
+    - \SE[1]Thank you very much for your kindness.
+    - \.\SE[16]Cool and Captivating... \.\SM[nod]\SE[14]Yes!
+    - <>

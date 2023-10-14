@@ -1,0 +1,61 @@
+# first game Scene Intro, Forest of Escape
+12:
+    - Lunaroa
+    - \SM[nod]\SE[13]...There's no way I can turn back now.
+    - <>
+17:
+    - Red-haired girl
+    - \SE[14]Haa...\.Haa...
+    - <>
+    - Red-haired girl
+    - \SE[12]Huff... Haa...! \!\SE[52]Phew...
+    - \!\SE[13]W-Well I've made it this far,\. somehow...
+    - <>
+    - Man's voice
+    - They must have fled this way!
+    - \.After her! Don't let her get away at all costs!
+    - <>
+    - Soldier
+    - Is she here?!
+    - <>
+    - Soldier
+    - No! Over here!
+    - <>
+    - Soldier
+    - Listen up! Our opponent is that Lunaroa!
+    - \.We cannot let her escape!
+    - \!We either capture or kill her!!
+    - <>
+    - Soldier
+    - Yes Sir!!
+    - <>
+    - Lunaroa
+    - \SM[nod]\SE[37]Phew....
+    - \!\SE[3]Looks like I managed to slip past them somehow.
+    - <>
+    - Lunaroa
+    # TL:
+    - \SE[2]But still, being told to murder me...
+    - \!\SE[3]Those are some disturbing words...
+    - <>
+    - Lunaroa
+    - \SE[12]But, there wasn't anyway out in the first place.
+    - \!\SM[nod]\SE[13]I have to make it through this forest and return home, for sure...
+    - <>
+    -
+    - Interact: Z Button, Enter Key
+    - \!Menu, Cancel: X button, Esc
+    - \!Movement: ←↑→↓ (Arrow Keys) 
+    - <>
+22:
+    - Lunaroa
+    - \SM[nod]\SE[13]...There's no way I can turn back now.
+    - <>
+23:
+    - Lunaroa
+    - \SM[nod]\SE[13]...There's no way I can turn back now.
+    - <>
+26:
+    -
+    - \i[393]Obtained 1x Antidote Grass!\$
+    - <>

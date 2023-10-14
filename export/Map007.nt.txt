@@ -1,0 +1,22 @@
+2:
+    - Lunaroa
+    - \SE[2]A dead end...?
+    - \!\SE[3]And there are no scout soldiers either, \.which means...
+    - <>
+    - Lunaroa
+    - \SE[47]It was all according...\. To plan.
+    - <>
+    - White Robed Woman 
+    - ...
+    - <>
+    - Lunaroa
+    - \SE[33]私は必ず…あなたのもとに…。
+    - <>
+    - Lunaroa
+    - \SE[12]I'll be right back...
+    - \!\SM[nod]\SE[14]Wait for me, \.Laura...!
+    - <>
+12:
+    - Lunaroa
+    - \SE[2]...This is not the time to turn back.
+    - <>

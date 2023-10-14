@@ -1,0 +1,4 @@
+1:
+    -
+    - \i[384] 1x Life Cure β Obtained!\$
+    - <>

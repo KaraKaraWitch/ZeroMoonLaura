@@ -1,0 +1,57 @@
+3:
+    -
+    - There's a bonfire in a place like this...
+    - <>
+    -
+    - You can fully recover your stamina by touching the bonfire.
+    - There are no restrictions, so let's take a break when you're exhausted.
+    - <>
+    -
+    - The flickering of the flames gave me a little peace of mind...
+    - My stamina has fully recovered!
+    - <>
+    -
+    - The flickering of the flames gave me a little peace of mind...
+    - My stamina has fully recovered!
+    - <>
+4:
+    - 0\G Obtained!\$
+    - <>
+5:
+    - Soldier
+    - How is it on your end?
+    - Have you seen "that" Lunaroa?
+    - <>
+    - Soldier
+    - If that's the case, I won't even be here.
+    - \!If you find her,
+    - either report back or kill her.
+    - <>
+    - Soldier
+    - They're telling us to kill her, but...
+    - \.what are we supposed to do, really?
+    - \!She's not someone we can handle...
+    - <>
+    - Soldier
+    - We have no choice but to leave it to the higher-ups...
+    - \!Fortunately, it seems that the principal from Magic Academy
+    - is here this time.
+    - <>
+    - Soldier
+    - That's reassuring, but...
+    - \!saying that it's impossible for us
+    - alone to handle it is the same as...
+    - <>
+    - Lunaroa
+    - \SE[14]I-I'm dropping in!
+    - \.\SM[nod]\SE[13]There's no helping it, so prepare yourself!
+    - <>
+    - Lunaroa
+    - \SE[13]I have to hurry...
+    - <>
+9:
+    - 0\G Obtained!\$
+    - <>
+14:
+    - 0\G Obtained!\$
+    - <>

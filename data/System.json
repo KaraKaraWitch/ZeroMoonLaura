@@ -1,0 +1,251 @@
+{
+  "type": "system",
+  "armor_types": [
+    [
+      1,
+      "一般防具"
+    ],
+    [
+      2,
+      "魔法防具"
+    ],
+    [
+      3,
+      "軽装防具"
+    ],
+    [
+      4,
+      "重装防具"
+    ],
+    [
+      5,
+      "小型盾"
+    ],
+    [
+      6,
+      "大型盾"
+    ],
+    [
+      7,
+      "ラウラ専用"
+    ],
+    [
+      8,
+      "ルナロア専用"
+    ],
+    [
+      9,
+      "ヴィタ専用"
+    ],
+    [
+      10,
+      "ベガ専用"
+    ],
+    [
+      11,
+      "ラウラ、ヴィタ共用"
+    ],
+    [
+      12,
+      "ルナロア、ベガ共用"
+    ],
+    [
+      13,
+      "ヴィタ、アイシャ共用"
+    ]
+  ],
+  "equip_types": [
+    [
+      1,
+      "武器"
+    ],
+    [
+      2,
+      "盾"
+    ],
+    [
+      3,
+      "頭"
+    ],
+    [
+      4,
+      "身体"
+    ],
+    [
+      5,
+      "装飾品"
+    ],
+    [
+      6,
+      "ラウラ専用"
+    ],
+    [
+      7,
+      "ルナロア専用"
+    ],
+    [
+      8,
+      "ヴィタ専用"
+    ],
+    [
+      9,
+      "ベガ専用"
+    ],
+    [
+      10,
+      "弾丸"
+    ]
+  ],
+  "skill_types": [
+    [
+      1,
+      "魔法"
+    ],
+    [
+      2,
+      "剣技"
+    ],
+    [
+      3,
+      "力技"
+    ],
+    [
+      4,
+      "特技"
+    ],
+    [
+      5,
+      "魔弾"
+    ],
+    [
+      6,
+      "奥義"
+    ],
+    [
+      7,
+      "奇跡"
+    ],
+    [
+      8,
+      "パッシブ"
+    ],
+    [
+      9,
+      "奇跡"
+    ],
+    [
+      10,
+      "児戯"
+    ]
+  ],
+  "terms": {
+    "basic": [
+      "Level",
+      "Lv",
+      "HP",
+      "HP",
+      "MP",
+      "MP",
+      "ＳＰ",
+      "SP",
+      "EXP",
+      "EXP"
+    ],
+    "commands": [
+      "Fight",
+      "Escape",
+      "Attack",
+      "Guard",
+      "Item",
+      "Skill",
+      "Equip",
+      "Status",
+      "Formation",
+      "Save",
+      "End Game",
+      "Options",
+      "Weapon",
+      "Armor",
+      "Key Item",
+      "Equip",
+      "Optimize",
+      "Clear",
+      "New Game",
+      "Continue",
+      null,
+      "To Title",
+      "Cancel",
+      null,
+      "Buy",
+      "Sell"
+    ],
+    "params": [
+      "Max HP",
+      "Max MP",
+      "Attack",
+      "Defense",
+      "M. Attack",
+      "M. Defense",
+      "Agility",
+      "Luck",
+      "Hit",
+      "Evasion"
+    ],
+    "messages": {
+      "alwaysDash": "Always Dash",
+      "commandRemember": "Remember Command",
+      "touchUI": "タッチUI",
+      "bgmVolume": "BGM Volume",
+      "bgsVolume": "BGS Volume",
+      "meVolume": "ME Volume",
+      "seVolume": "SE Volume",
+      "possession": "Possession",
+      "expTotal": "Current %1",
+      "expNext": "To Next %1",
+      "saveMessage": "Save to which file?",
+      "loadMessage": "Load which file?",
+      "file": "File",
+      "autosave": "オートセーブ",
+      "partyName": "%1's Party",
+      "emerge": "%1 emerged!",
+      "preemptive": "%1 got the upper hand!",
+      "surprise": "%1 was surprised!",
+      "escapeStart": "%1 has started to escape!",
+      "escapeFailure": "However, it was unable to escape!",
+      "victory": "%1 was victorious!",
+      "defeat": "%1 was defeated.",
+      "obtainExp": "%1 %2 received!",
+      "obtainGold": "%1\\G found!",
+      "obtainItem": "%1を手に入れた！\\$",
+      "levelUp": "%1 is now %2 %3!",
+      "obtainSkill": "%1 learned!",
+      "useItem": "%1 uses %2!",
+      "criticalToEnemy": "An critical hit!!",
+      "criticalToActor": "A painful blow!!",
+      "actorDamage": "%1 took %2 damage!",
+      "actorRecovery": "%1 recovered %2 %3!",
+      "actorGain": "%1 gained %2 %3!",
+      "actorLoss": "%1 lost %2 %3!",
+      "actorDrain": "%1 was drained of %2 %3!",
+      "actorNoDamage": "%1 took no damage!",
+      "actorNoHit": "Miss! %1 took no damage!",
+      "enemyDamage": "%1 took %2 damage!",
+      "enemyRecovery": "%1 recovered %2 %3!",
+      "enemyGain": "%1 gained %2 %3!",
+      "enemyLoss": "%1 lost %2 %3!",
+      "enemyDrain": "%1 was drained of %2 %3!",
+      "enemyNoDamage": "%1 took no damage!",
+      "enemyNoHit": "Miss! %1 took no damage!",
+      "evasion": "%1 evaded the attack!",
+      "magicEvasion": "%1 nullified the magic!",
+      "magicReflection": "%1 reflected the magic!",
+      "counterAttack": "%1 counterattacked!",
+      "substitute": "%1 protected %2!",
+      "buffAdd": "%1's %2 went up!",
+      "debuffAdd": "%1's %2 went down!",
+      "buffRemove": "%1's %2 returned to normal!",
+      "actionFailure": "There was no effect on %1!"
+    }
+  },
+  "game_title": "Laura of the Zero Moon"
+}

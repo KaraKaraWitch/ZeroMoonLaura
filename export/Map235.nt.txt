@@ -1,0 +1,39 @@
+4:
+    - Lunaroa
+    - \SM[nod]\SE[7]There's no need to go through a route with strict security measures, I suppose...
+    - <>
+12:
+    - Soldier
+    - Have you found that target?
+    - <>
+    - Soldier
+    - Not at all sir! We have yet to confirm it yet!
+    - <>
+    - Soldier
+    - Listen up! Don't try to handle that alone!
+    - \.Make sure to crush her with our numbers!
+    - \!Each unit, resume your search!!
+    - <>
+    - Soldier
+    - Yes sir!!
+    - <>
+    - Lunaroa
+    - \SE[12]I have to be careful around here.
+    - \!\SM[nod]\SE[13]Seems like I'm being chased more persistently than I expected... 
+    - <>
+    - Lunaroa
+    - \SM[nod]\SE[2]Which way should we go...
+    - \!\SE[3]Because I deviated from the route,
+    - I can't seem to figure out the exact exit.
+    - <>
+    - Lunaroa
+    - \SE[3]Perhaps I should try heading where there are fewer guards...
+    - <>
+14:
+    - Lunaroa
+    - \SM[nod]\SE[7]There's no need to go through a route with strict security measures, I suppose...
+    - <>
+15:
+    -
+    - \i[384]キュアライフαを手に入れた！\$
+    - <>
