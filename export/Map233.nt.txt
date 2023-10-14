@@ -3,30 +3,30 @@
     - \SM[nod]\SE[13]…引き返すわけにはいかないわ。
     - <>
 17:
-    - 赤い髪の少女
-    - \SE[14]はっ…\.はっ…！
+    - Red Haired Girl
+    - \SE[14]Huf...\.Ha...!
     - <>
-    - 赤い髪の少女
-    - \SE[12]はぁ…はぁ……\!\SE[52]ふぅ…。
-    - \!\SE[13]こ、ここまでくれば、\.どうにか………。
+    - Red Haired Girl
+    - \SE[12]Haa... Haa...\!\SE[52]Fuu...
+    - \!\SE[13]I-I made it this far,\. somehow...
     - <>
-    - 男の声
-    - こっちに逃げたはずだ！
-    - \.追え！ 絶対に逃がすなよ！！
+    - Man's Voice
+    - She should have escaped through here!
+    - \.After her! Don't let her get away!
     - <>
-    - 兵士
-    - いたか！？
+    - Soldier
+    - Found her?! いたか！？
     - <>
-    - 兵士
+    - Soldier
     - いいえ！こちらには！
     - <>
-    - 兵士
-    - いいか相手は『あの』ルナロアだ！
+    - Soldier
+    - Listen up! Our opponent is *that* Lunaroa!
     - \.取り逃がすことは許されない！
     - \!絶対に確保、もしくは殺害するのだ！！
     - <>
-    - 兵士
-    - はっ！！
+    - Soldier
+    - Yes sir!!
     - <>
     - Lunaroa
     - \SM[nod]\SE[37]ふぅ…。
