@@ -99,15 +99,15 @@
     - <>
 30:
     -
-    - ゲームは『一日一時間』…！！
-    - \.健康的な生活のために正しい距離感をっ…！
-    - \!……っと、かかれた看板に『らくがき』がされている。
+    - "The time limit for the game is 1 hour per day!!
+    - \.Don't keep your eyes too close to the Screen...!"
+    - \!There's a graffiti written on signboard:
     - <>
     -
-    - やかましいんじゃ…！！
-    - \.つまらねぇ大人のルールに縛られねぇぞ！！
-    - \!俺たちは、くたばるまでゲームをやる…。\.そうだろ、みんな！？
-    - \!……と、書かれている。
+    - So noisy!!
+    - \.I ain't binding to any stupid adult rules!
+    - \!For us, we'll play til' we drop. \.Isn't that right, everyone?!
+    - \!...That's what it reads.
     - <>
 31:
     - 仲のいい女の子
