@@ -6,7 +6,7 @@
     - \i[389] 1x Cure Mist α Obtained!\$
     - <>
 22:
-    - ベガ
+    - Vega
     - \SE[2]なんだか、様子がおかしいわね…。
     - <>
     - Lunaroa
