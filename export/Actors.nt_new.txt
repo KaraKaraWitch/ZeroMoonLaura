@@ -22,7 +22,7 @@
 2:
     name: Lunaroa
     note:
-        > <stand_picture:lunaroa_menu><特徴1:膨大な魔力が特徴。><特徴2:大体のことはなんでもできる。
+        > <stand_picture:lunaroa_menu><特徴1:Characterized by her enormous magical power.><特徴2:She can do almost anything.
         > >
         > <攻撃封印スイッチ:327>   # ID[327]のスイッチがONのとき攻撃を封印
         > <スキルタイプ1封印スイッチ:328> # スイッチ[323]がONならスキルタイプ[1](魔法)を封印
@@ -37,7 +37,7 @@
     nickname:
     profile:
         > ハタヤキ村出身。魔法学園に『特待生』として入学。
-        > ラウラのことになると暴走しがち。
+        > She tends to go out of control when it comes to Laura.
 3:
     name: Vita
     note:
@@ -226,7 +226,7 @@
     nickname:
     profile:
         > ハタヤキ村出身。魔法学園に特待生待遇で入学。
-        > ラウラのことになると暴走しがち。
+        > She tends to go out of control when it comes to Laura. ラウラのことになると暴走しがち。
 16:
     name: Vega (Academy Student)
     note:
@@ -239,8 +239,8 @@
         > <BFC_DeltaPos:10,20> # 同上
     nickname:
     profile:
-        > 名門リラ家の令嬢。上昇志向が強く負けず嫌い。
-        > 一方で統率能力や観察力が高く、世話焼き。
+        > The daughter of the prestigious Lila family. Highly motivated and hates to lose.
+        > On the other hand, she is helpful and has strong leadership and observation skills.
 17:
     name: サンイ
     note:
