@@ -1,19 +1,17 @@
-
 4:
     -
     - \i[388]ケアキュアαを手に入れた！\$
     - <>
-# first game Scene Intro, Forest of Escape Part 2
 5:
-    - Lunaroa
-    - \SE[2]There's a watchmen over there too...
+    - ルナロア
+    - \SE[2]あそこにも見張りが…。
     - <>
-    - Lunaroa
-    - \SE[2]If I'm found, a battle would be inevitable...
-    - \.There's no way to take a detour either...
+    - ルナロア
+    - \SE[2]見つかれば戦闘は避けられないわよね。
+    - \.迂回出来るような道もない…。
     - <>
-    - Lunaroa
-    - \SM[nod]\SE[3]Right...
+    - ルナロア
+    - \SM[nod]\SE[3]よし…。
     - <>
 9:
     -
@@ -24,7 +22,7 @@
     - \i[385]マジカルケアαを手に入れた！\$
     - <>
 27:
-    - Lunaroa
+    - ルナロア
     - \SE[2]こんな所に『焚火』がある…。
     - <>
     -
@@ -37,7 +35,7 @@
     - \!複数に分けたこまめな『セーブ』を推奨します。
     - <>
 28:
-    - Lunaroa
+    - ルナロア
     - \SE[2]こんな所に『焚火』がある…。
     - <>
     -

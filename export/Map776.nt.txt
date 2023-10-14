@@ -1,57 +1,57 @@
 3:
     -
-    - There's a bonfire in a place like this...
+    - こんな所に焚火がある…。
     - <>
     -
-    - You can fully recover your stamina by touching the bonfire.
-    - There are no restrictions, so let's take a break when you're exhausted.
+    - 焚火に触れることで体力を全回復することができます。
+    - 制限はありませんので、体力を消耗したら休んでいきましょう。
     - <>
     -
-    - The flickering of the flames gave me a little peace of mind...
-    - My stamina has fully recovered!
+    - 炎の揺らめきに少し心が安らいだ…。
+    - 体力が全回復した！
     - <>
     -
-    - The flickering of the flames gave me a little peace of mind...
-    - My stamina has fully recovered!
+    - 炎の揺らめきに少し心が安らいだ…。
+    - 体力が全回復した！
     - <>
 4:
-    - 0\G Obtained!\$
+    - 0\G 手に入れた！\$
     - <>
 5:
-    - Soldier
-    - How is it on your end?
-    - Have you seen "that" Lunaroa?
+    - 兵士
+    - そっちはどうよー？
+    - 『あの』ルナロア見つけた？
     - <>
-    - Soldier
-    - If that's the case, I won't even be here.
-    - \!If you find her,
-    - either report back or kill her.
+    - 兵士
+    - それだったら、ここにいねーっての。
+    - \!もし見つけてたら、
+    - 殺されてるか報告にいってるって。
     - <>
-    - Soldier
-    - They're telling us to kill her, but...
-    - \.what are we supposed to do, really?
-    - \!She's not someone we can handle...
+    - 兵士
+    - 『殺せ』って言われてるけどさ…。
+    - \.実際、どうすんのよ？
+    - \!あんなの俺たちの手に負える相手じゃねぇって…。
     - <>
-    - Soldier
-    - We have no choice but to leave it to the higher-ups...
-    - \!Fortunately, it seems that the principal from Magic Academy
-    - is here this time.
+    - 兵士
+    - お偉いさんに任せるしかねぇな…。
+    - \!幸い、今回は『魔法学園』から理事長さまが
+    - 来てくださってるそうだし。
     - <>
-    - Soldier
-    - That's reassuring, but...
-    - \!saying that it's impossible for us
-    - alone to handle it is the same as...
+    - 兵士
+    - それは心強いけど…。
+    - \!それ、俺たちだけじゃ対処不可能って
+    - 言ってるのと同じなんじゃ…。
     - <>
-    - Lunaroa
-    - \SE[14]I-I'm dropping in!
-    - \.\SM[nod]\SE[13]There's no helping it, so prepare yourself!
+    - ルナロア
+    - \SE[14]は、外しちゃった！
+    - \.\SM[nod]\SE[13]仕方ない、覚悟して…！
     - <>
-    - Lunaroa
-    - \SE[13]I have to hurry...
+    - ルナロア
+    - \SE[13]先を急がないと…。
     - <>
 9:
-    - 0\G Obtained!\$
+    - 0\G 手に入れた！\$
     - <>
 14:
-    - 0\G Obtained!\$
+    - 0\G 手に入れた！\$
     - <>

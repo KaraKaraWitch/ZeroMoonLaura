@@ -1,37 +1,37 @@
 4:
-    - Lunaroa
-    - \SM[nod]\SE[7]There's no need to go through a route with strict security measures, I suppose...
+    - ルナロア
+    - \SM[nod]\SE[7]わざわざ警戒の厳しいところに行く必要はないわよね…。
     - <>
 12:
-    - Soldier
-    - Have you found that target?
+    - 兵士
+    - 目標は発見できたか！
     - <>
-    - Soldier
-    - Not at all sir! We have yet to confirm it yet!
+    - 兵士
+    - いえっ！こちらではまだ確認できていません！
     - <>
-    - Soldier
-    - Listen up! Don't try to handle that alone!
-    - \.Make sure to crush her with our numbers!
-    - \!Each unit, resume your search!!
+    - 兵士
+    - いいか！『あれ』に単独で対応しようと思うな！
+    - \.確実に人数をかけて潰せ！
+    - \!各隊捜索を再開せよ！！
     - <>
-    - Soldier
-    - Yes sir!!
+    - 兵士
+    - はっ！！
     - <>
-    - Lunaroa
-    - \SE[12]I have to be careful around here.
-    - \!\SM[nod]\SE[13]Seems like I'm being chased more persistently than I expected... 
+    - ルナロア
+    - \SE[12]こっちも警戒が厳しいわね。
+    - \!\SM[nod]\SE[13]想像よりも執拗に追跡されているし…。
     - <>
-    - Lunaroa
-    - \SM[nod]\SE[2]Which way should we go...
-    - \!\SE[3]Because I deviated from the route,
-    - I can't seem to figure out the exact exit.
+    - ルナロア
+    - \SM[nod]\SE[2]どっちにいきましょう…。
+    - \!\SE[3]ルートを外れたせいで
+    - 出口を正確に把握出来ていないのよね。
     - <>
-    - Lunaroa
-    - \SE[3]Perhaps I should try heading where there are fewer guards...
+    - ルナロア
+    - \SE[3]見張りの少なかったこっちに行ってみようかしら…。
     - <>
 14:
-    - Lunaroa
-    - \SM[nod]\SE[7]There's no need to go through a route with strict security measures, I suppose...
+    - ルナロア
+    - \SM[nod]\SE[7]わざわざ警戒の厳しいところに行く必要はないわよね…。
     - <>
 15:
     -

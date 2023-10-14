@@ -1,61 +1,59 @@
-# first game Scene Intro, Forest of Escape
 12:
-    - Lunaroa
-    - \SM[nod]\SE[13]...There's no way I can turn back now.
+    - ルナロア
+    - \SM[nod]\SE[13]…引き返すわけにはいかないわ。
     - <>
 17:
-    - Red-haired girl
-    - \SE[14]Haa...\.Haa...
+    - 赤い髪の少女
+    - \SE[14]はっ…\.はっ…！
     - <>
-    - Red-haired girl
-    - \SE[12]Huff... Haa...! \!\SE[52]Phew...
-    - \!\SE[13]W-Well I've made it this far,\. somehow...
+    - 赤い髪の少女
+    - \SE[12]はぁ…はぁ……\!\SE[52]ふぅ…。
+    - \!\SE[13]こ、ここまでくれば、\.どうにか………。
     - <>
-    - Man's voice
-    - They must have fled this way!
-    - \.After her! Don't let her get away at all costs!
+    - 男の声
+    - こっちに逃げたはずだ！
+    - \.追え！ 絶対に逃がすなよ！！
     - <>
-    - Soldier
-    - Is she here?!
+    - 兵士
+    - いたか！？
     - <>
-    - Soldier
-    - No! Over here!
+    - 兵士
+    - いいえ！こちらには！
     - <>
-    - Soldier
-    - Listen up! Our opponent is that Lunaroa!
-    - \.We cannot let her escape!
-    - \!We either capture or kill her!!
+    - 兵士
+    - いいか相手は『あの』ルナロアだ！
+    - \.取り逃がすことは許されない！
+    - \!絶対に確保、もしくは殺害するのだ！！
     - <>
-    - Soldier
-    - Yes Sir!!
+    - 兵士
+    - はっ！！
     - <>
-    - Lunaroa
-    - \SM[nod]\SE[37]Phew....
-    - \!\SE[3]Looks like I managed to slip past them somehow.
+    - ルナロア
+    - \SM[nod]\SE[37]ふぅ…。
+    - \!\SE[3]なんとかやり過ごせたみたい。
     - <>
-    - Lunaroa
-    # TL:
-    - \SE[2]But still, being told to murder me...
-    - \!\SE[3]Those are some disturbing words...
+    - ルナロア
+    - \SE[2]それにしても、絶対に殺害だなんて…
+    - \!\SE[3]物騒なこと言われてるわね。
     - <>
-    - Lunaroa
-    - \SE[12]But, there wasn't anyway out in the first place.
-    - \!\SM[nod]\SE[13]I have to make it through this forest and return home, for sure...
+    - ルナロア
+    - \SE[12]でも、最初から退路なんてないわ。
+    - \!\SM[nod]\SE[13]この森を抜けて、必ず帰らなきゃ…。
     - <>
     -
-    - Interact: Z Button, Enter Key
-    - \!Menu, Cancel: X button, Esc
-    - \!Movement: ←↑→↓ (Arrow Keys) 
+    - 決定：Ｚボタン、Ｅｎｔｅｒキー
+    - \!メニュー、キャンセル：Ｘボタン、Ｅｓｃキー
+    - \!移動：←↑→↓キー
     - <>
 22:
-    - Lunaroa
-    - \SM[nod]\SE[13]...There's no way I can turn back now.
+    - ルナロア
+    - \SM[nod]\SE[13]…引き返すわけにはいかないわ。
     - <>
 23:
-    - Lunaroa
-    - \SM[nod]\SE[13]...There's no way I can turn back now.
+    - ルナロア
+    - \SM[nod]\SE[13]…引き返すわけにはいかないわ。
     - <>
 26:
     -
-    - \i[393]Obtained 1x Antidote Grass!\$
+    - \i[393]どくけし草を手に入れた！\$
     - <>
